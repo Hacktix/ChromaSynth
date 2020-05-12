@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromaSynth", "ChromaSynth.csproj", "{AB621D39-08A4-4934-B7EF-5EE81CE39D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB621D39-08A4-4934-B7EF-5EE81CE39D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB621D39-08A4-4934-B7EF-5EE81CE39D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB621D39-08A4-4934-B7EF-5EE81CE39D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB621D39-08A4-4934-B7EF-5EE81CE39D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49828B5-9B79-4A69-A0DF-2C436E5A51F0}
+	EndGlobalSection
+EndGlobal
