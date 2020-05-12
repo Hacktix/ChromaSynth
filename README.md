@@ -1,6 +1,9 @@
 # ChromaSynth
 This library is an extension to Ciastex' Chroma Framework and allows for audio synthesis at runtime.
 
+![Nuget](https://img.shields.io/nuget/dt/ChromaSynth)
+![Nuget](https://img.shields.io/nuget/v/ChromaSynth)
+
 ## Example
 The extension is quick and easy to set up. The following is an example of how to generate a 440Hz sine wave and have it play continuously:
 ```csharp
